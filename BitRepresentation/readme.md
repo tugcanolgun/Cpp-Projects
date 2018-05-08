@@ -3,8 +3,11 @@ BOUN HW1, Bitwise representation of an integer
 
 # Details
 @file bitRepresentation.cpp
+
 @author Tugcan Olgun
+
 @Date 20 Feb 2017
+
 @version 1.0
 
 # Description
